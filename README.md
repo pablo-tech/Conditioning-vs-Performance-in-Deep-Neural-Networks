@@ -1,11 +1,13 @@
 # DeepNetwork Conditioning vs Performance
 
+### Category: Neural Network
+### Team Members: 
+- Jakub Dworakowski, Computer Science, Stanford University   
+- Pablo Rodriguez Bertorello, Computer Science, Stanford University 
 
-## By:
-Jakub Dworakowski  
-Pablo Rodriguez Bertorello
-Computer Science
-Stanford University
+### Summary
+The project studies neural network conditioning under regularization approaches including Stochastic Gradient Descent.
+![picture](img/stochastic-vs-batch-gradient-descent.png)
 
-## Report
-See: Project_Report_FINAL.pdf 
+### Report
+For details see the project report https://github.com/pablo-tech/DeepNetwork-Conditioning-vs-Performance/blob/master/Project_Report_FINAL.pdf
