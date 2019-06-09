@@ -1,4 +1,4 @@
-# DeepNetwork Conditioning vs Performance
+# Deep Neural Network Conditioning vs Performance
 
 ### Category: Neural Network
 ### Team Members: 
