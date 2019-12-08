@@ -10,6 +10,4 @@ We investigate the effects of neural network regularization techniques. First, w
 ### Report
 For details see the project report https://github.com/pablo-tech/DeepNetwork-Conditioning-vs-Performance/blob/master/Project_Report_FINAL.pdf
 
-### Summary
-The project studies neural network conditioning under regularization approaches including Stochastic Gradient Descent.
 ![picture](img/stochastic-vs-batch-gradient-descent.png)
